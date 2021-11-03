@@ -2,7 +2,7 @@ baseURL = "https://example.com"
 languageCode = "ca_ES"
 defaultContentLanguage = "ca_ES"
 title = "El Raconet de'n Martí"
-theme = "cactus"
+theme = "archie"
 copyright = "Marti Bravo Navarro. Tots els drets reservats." # cactus will use title if copyright is not set
 # googleAnalytics = "UA-1234-5"
 
