@@ -1,7 +1,7 @@
 ---
 title: Introduccio
 date: 2021-11-03 00:00:00
-draft: false
+draft: true
 tags:
     - CSharp
     - UnoPlatform

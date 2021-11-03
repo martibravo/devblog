@@ -1,8 +1,8 @@
-baseURL = "https://dev.martibravo.com"
+baseURL = "//dev.martibravo.com"
 languageCode = "ca"
 defaultContentLanguage = "ca"
 title = "El Raconet de'n Martí"
-theme = "archie"
+theme = "cactus"
 copyright = "Marti Bravo Navarro. Tots els drets reservats." # cactus will use title if copyright is not set
 # googleAnalytics = "UA-1234-5"
 
@@ -54,16 +54,16 @@ weight = 4
   showAllPostsArchive = false # default
 
   # Home page settings
-  mainSections = "posts" # your main section
+  mainSections = "escrits" # your main section
   mainSectionTitle = "Escrits"
   showAllPostsOnHomePage = true # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
-  tagsOverview = true # show tags overview by default.
+  tagsOverview = false # show tags overview by default.
   showProjectsList = false # show projects list by default (if projects data file exists).
   projectsUrl = "https://github.com/martibravo" # title link for projects list
 
   # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
-  dateFormat = "Monday, 2.1.2006" # default
+  dateFormat = "02.01.2006 15h" # default
 
   # Post page settings
   show_updated = true # default
