@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
-languageCode = "ca_ES"
-defaultContentLanguage = "ca_ES"
+baseURL = "https://dev.martibravo.com"
+languageCode = "ca"
+defaultContentLanguage = "ca"
 title = "El Raconet de'n Martí"
 theme = "archie"
 copyright = "Marti Bravo Navarro. Tots els drets reservats." # cactus will use title if copyright is not set
