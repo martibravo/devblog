@@ -7,9 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ca_ES</language>
     <copyright>Marti Bravo Navarro. Tots els drets reservats.</copyright>
+    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CSharp</title>
+      <link>https://example.com/tags/csharp/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/csharp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UnoPlatform</title>
+      <link>https://example.com/tags/unoplatform/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/unoplatform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://example.com/tags/windows/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WindowsAppSDK</title>
+      <link>https://example.com/tags/windowsappsdk/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/windowsappsdk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WinUI</title>
+      <link>https://example.com/tags/winui/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/winui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XAML</title>
+      <link>https://example.com/tags/xaml/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/xaml/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

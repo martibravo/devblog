@@ -3,15 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://example.com/escrits/2021-11-03-apps-modernes-2/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/escrits/asdasda/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/categories/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/csharp/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/escrits/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/escrits/2021-11-03-apps-modernes-1/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/personal/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/programaci%C3%B3/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/tutorials/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/unoplatform/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/windows/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/windowsappsdk/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/winui/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/xaml/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

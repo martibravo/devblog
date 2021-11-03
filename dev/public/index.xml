@@ -7,9 +7,48 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ca_ES</language>
     <copyright>Marti Bravo Navarro. Tots els drets reservats.</copyright>
+    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apps modernes 1</title>
+      <link>https://example.com/escrits/2021-11-03-apps-modernes-2/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/escrits/2021-11-03-apps-modernes-2/</guid>
+      <description>#Apps modernes #1: Introducció
+String
+1class Bind { 2 protected $name = &amp;#39;no name&amp;#39;; 3 public $change; 4 5 public function addAction($action) { 6 $this-&amp;gt;change = $action-&amp;gt;bindTo($this, __CLASS__); 7 } 8} 9 10$bind = new Bind(); 11$bind-&amp;gt;addAction(function() { 12 $this-&amp;gt;name = &amp;#34;php&amp;#34;; 13 return $this-&amp;gt;name; 14 }); 15 16$change = $bind-&amp;gt;change; 17echo $change(); Using indents:
+text text text  Fenced code block:
+text text &amp;lt;tag&amp;gt; Fenced code block with language (lineNumbersInTable = false):</description>
+    </item>
+    
+    <item>
+      <title>Apps modernes 1</title>
+      <link>https://example.com/escrits/asdasda/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/escrits/asdasda/</guid>
+      <description>#Apps modernes #1: Introducció
+String
+1class Bind { 2 protected $name = &amp;#39;no name&amp;#39;; 3 public $change; 4 5 public function addAction($action) { 6 $this-&amp;gt;change = $action-&amp;gt;bindTo($this, __CLASS__); 7 } 8} 9 10$bind = new Bind(); 11$bind-&amp;gt;addAction(function() { 12 $this-&amp;gt;name = &amp;#34;php&amp;#34;; 13 return $this-&amp;gt;name; 14 }); 15 16$change = $bind-&amp;gt;change; 17echo $change(); Using indents:
+text text text  Fenced code block:
+text text &amp;lt;tag&amp;gt; Fenced code block with language (lineNumbersInTable = false):</description>
+    </item>
+    
+    <item>
+      <title>Introduccio</title>
+      <link>https://example.com/escrits/2021-11-03-apps-modernes-1/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/escrits/2021-11-03-apps-modernes-1/</guid>
+      <description>Apps modernes #1: Introducció String
+1class Bind { 2 protected $name = &amp;#39;no name&amp;#39;; 3 public $change; 4 5 public function addAction($action) { 6 $this-&amp;gt;change = $action-&amp;gt;bindTo($this, __CLASS__); 7 } 8} 9 10$bind = new Bind(); 11$bind-&amp;gt;addAction(function() { 12 $this-&amp;gt;name = &amp;#34;php&amp;#34;; 13 return $this-&amp;gt;name; 14 }); 15 16$change = $bind-&amp;gt;change; 17echo $change(); Using indents:
+text text text  Fenced code block:
+text text &amp;lt;tag&amp;gt; Fenced code block with language (lineNumbersInTable = false):</description>
+    </item>
     
   </channel>
 </rss>
