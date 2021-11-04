@@ -26,10 +26,14 @@ Alguns internautes es preguntaran... com es fa una app? Un sistema operatiu? Com
 
 L'objectiu d'aquestes guies és començar amb conceptes bàsics de programació i acabar fent una app que funcioni a Windows (7, 8, 10 i 11), macOS, Android i iOS alhora sense haver de fer-ne versions específiques. L'aplicació que farem plegats servirà per fer llistes de tasques i gestionar-les, com l'app de Recordatoris a l'iPhone o el Microsoft To-Do. 
 
-
-**_ara em posaré tècnic: totes les paraules en cursiva tenen la seva definició al peu de pàgina_**
-
 Per fer-ho farem ús de la Plataforma Uno, un _SDK_ que permet fer apps per a molts sistemes alhora (i fins i tot fer que funcioni a la web) d'una manera fàcil i senzilla. Durant el transcurs de la guia s'anirà explicant més en profunditat com funciona tot plegat. 
+
+Si aquest darrer paràgraf t'ha semblat que estava escrit en xinès, no t'hi capfiquis. Aqui sota he escrit un glossari amb diversos conceptes que cal tenir clars abans de començar a fer res. **T'espero a la part 1 del curset! 😄** Segueix-me al meu Twitter de programació [@martibravo04](https://twitter.com/martibravo04) i sigues el primer en saber quan es publica!
+
+
+
+
+
 
 ## Glossari
 _(si ja has fet alguna app, pot saltar a la següent secció)_
