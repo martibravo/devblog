@@ -18,9 +18,9 @@ categories:
 
 A l'escola, a la feina, a casa... la tecnologia és a tot arreu i mou el món. Cada dia s'instal·len milers de milions d'aplicacions a milions de mòbils, tablets i ordinadors, fetes per programadors de tot el món que busquen sol·lucionar problemes i respondre a les necessitats dels usuaris mitjançant programari. 
 
-Alguns internautes es preguntaran... com es fa una app? Un sistema operatiu? Com es programa? Aquesta és la resposta que intentaré ajudar a respondre a qui vulgui seguir aquesta sèrie de tutorials. No són pocs aquells que volen aprendre el que passa darrere la pantalla, pero sovint la poca existència de documentació que no sigui en anglès ho fa difícil. 
+Alguns internautes es preguntaran... com es fa una app? Un sistema operatiu? Com es programa? Aquestes són les preguntes que intentaré ajudar a respondre a qui vulgui seguir aquesta sèrie de tutorials. No són pocs aquells que volen aprendre el que passa darrere la pantalla, pero sovint la poca existència de documentació que no sigui en anglès ho fa difícil. 
 
-**Lector, benvingut al curset d'introducció al desenvolupament d'apps!**
+**Lector, benvingut al curset d'introducció al desenvolupament d'apps! En català!**
 
 ## Què construïrem amb aquest curset?
 
@@ -28,15 +28,13 @@ L'objectiu d'aquestes guies és començar amb conceptes bàsics de programació 
 
 Per fer-ho farem ús de la Plataforma Uno, un _SDK_ que permet fer apps per a molts sistemes alhora (i fins i tot fer que funcioni a la web) d'una manera fàcil i senzilla. Durant el transcurs de la guia s'anirà explicant més en profunditat com funciona tot plegat. 
 
-Si aquest darrer paràgraf t'ha semblat que estava escrit en xinès, no t'hi capfiquis. Aqui sota he escrit un glossari amb diversos conceptes que cal tenir clars abans de començar a fer res. **T'espero a la part 1 del curset! 😄** Segueix-me al meu Twitter de programació [@martibravo04](https://twitter.com/martibravo04) i sigues el primer en saber quan es publica!
+Si aquest darrer paràgraf t'ha semblat que estava escrit en xinès, no t'hi capfiquis. Aqui sota hi ha un petit glossari amb diversos conceptes que cal tenir clars abans de començar a fer res. **T'espero a la part 1 del curset! 😄** Segueix-me al meu Twitter de programació [@martibravo04](https://twitter.com/martibravo04) i sigues el primer en saber quan es publica!
 
 
+Si tens cap dubte, pregunta o comentari, envia'm un correu a [dev@martibravo.com](mailto:dev@martibravo.com) o deixa'm un missatge privat a la bústia de Twitter. 
+****
 
-
-
-
-## Glossari
-_(si ja has fet alguna app, pot saltar a la següent secció)_
+### **Glossari**
 
 **Sistema operatiu:** Conjunt de programari que controla el funcionament de l'ordinador i del seu maquinari. Són sistemes operatius, per exemple, la família de sistemes Windows, macOS, iOS (el de l'iPhone), Android o Ubuntu.
 
