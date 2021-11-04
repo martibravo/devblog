@@ -1,7 +1,7 @@
 baseURL = "https://dev.martibravo.com"
 languageCode = "ca"
 defaultContentLanguage = "ca"
-title = "El Raconet de'n Martí"
+title = "El Raconet d'en Martí"
 theme = "cactus"
 copyright = "Marti Bravo Navarro. Tots els drets reservats." # cactus will use title if copyright is not set
 # googleAnalytics = "UA-1234-5"
